@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c431757b3e86ca272fb04b2237501d1a",
+    "revision": "f971b081e31dec0ca4225c36a121193f",
     "url": "/rickyriosp/face-recognition-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rickyriosp/face-recognition-app/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f70d4c6a4fd74f94647b",
+    "revision": "7becfdb222b749b183e3",
     "url": "/rickyriosp/face-recognition-app/static/css/main.ac8762e2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rickyriosp/face-recognition-app/static/js/2.75c43936.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f70d4c6a4fd74f94647b",
-    "url": "/rickyriosp/face-recognition-app/static/js/main.27636c1b.chunk.js"
+    "revision": "7becfdb222b749b183e3",
+    "url": "/rickyriosp/face-recognition-app/static/js/main.d37ae330.chunk.js"
   },
   {
     "revision": "b331d47dfde6cc4ddfc4",

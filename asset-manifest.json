@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rickyriosp/face-recognition-app/static/css/main.ac8762e2.chunk.css",
-    "main.js": "/rickyriosp/face-recognition-app/static/js/main.27636c1b.chunk.js",
-    "main.js.map": "/rickyriosp/face-recognition-app/static/js/main.27636c1b.chunk.js.map",
+    "main.js": "/rickyriosp/face-recognition-app/static/js/main.d37ae330.chunk.js",
+    "main.js.map": "/rickyriosp/face-recognition-app/static/js/main.d37ae330.chunk.js.map",
     "runtime-main.js": "/rickyriosp/face-recognition-app/static/js/runtime-main.4098d20d.js",
     "runtime-main.js.map": "/rickyriosp/face-recognition-app/static/js/runtime-main.4098d20d.js.map",
     "static/css/2.3c03f26f.chunk.css": "/rickyriosp/face-recognition-app/static/css/2.3c03f26f.chunk.css",
     "static/js/2.75c43936.chunk.js": "/rickyriosp/face-recognition-app/static/js/2.75c43936.chunk.js",
     "static/js/2.75c43936.chunk.js.map": "/rickyriosp/face-recognition-app/static/js/2.75c43936.chunk.js.map",
     "index.html": "/rickyriosp/face-recognition-app/index.html",
-    "precache-manifest.18eb46be5d5e790b30f5e3fddca2d092.js": "/rickyriosp/face-recognition-app/precache-manifest.18eb46be5d5e790b30f5e3fddca2d092.js",
+    "precache-manifest.018795c4a983bf3a8cbfed9115dd9958.js": "/rickyriosp/face-recognition-app/precache-manifest.018795c4a983bf3a8cbfed9115dd9958.js",
     "service-worker.js": "/rickyriosp/face-recognition-app/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/rickyriosp/face-recognition-app/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.ac8762e2.chunk.css.map": "/rickyriosp/face-recognition-app/static/css/main.ac8762e2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.75c43936.chunk.js",
     "static/css/main.ac8762e2.chunk.css",
-    "static/js/main.27636c1b.chunk.js"
+    "static/js/main.d37ae330.chunk.js"
   ]
 }
